@@ -53,13 +53,6 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
   <img src="docs/img/login.png" alt="Auth Screenshot" width="100%"/>
 </p>
 
-### Dark Mode
-
-<p align="center">
-  <img src="docs/img/darkmode.png" alt="Dark Mode Screenshot" width="100%"/>
-</p>
-
-
 
 ## Features
 
