@@ -18,21 +18,18 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
 
 ### Calendar View
 
-<p align="center">
-  <img src="docs/img/calendar.png" alt="Calendar Screenshot" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/af8b63ca-1ec6-4c08-bec6-ddb845e1c35c)
+
 
 ### Documents Page
 
-<p align="center">
-  <img src="docs/img/documents.png" alt="Health Logs Screenshot" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/c1d3b5bb-e4e6-4987-ac0f-10e18528a335)
+
 
 ### Medication Reminders
 
-<p align="center">
-  <img src="docs/img/meds.png" alt="Medication Reminders Screenshot" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/f335dbcd-19a3-40f1-a37f-fb7baa89f6bf)
+
 
 ### Chatbot UI
 
