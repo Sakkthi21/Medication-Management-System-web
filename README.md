@@ -13,10 +13,8 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
 
 ### Home Dashboard
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e474febb-0938-49c5-9b1f-8f458de28dea)
-" alt="Dashboard Screenshot" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/b2d31820-441f-4149-bb15-5849f66a4231)
+
 
 ### Calendar View
 
@@ -42,11 +40,6 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
   <img src="docs/img/chat.png" alt="Chatbot Screenshot" width="100%"/>
 </p>
 
-### Profile Page
-
-<p align="center">
-  <img src="docs/img/profile.png" alt="Profile Screenshot" width="100%"/>
-</p>
 
 ### Auth
 
