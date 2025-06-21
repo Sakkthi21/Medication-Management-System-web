@@ -14,7 +14,8 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
 ### Home Dashboard
 
 <p align="center">
-  <img src="docs/img/dashboard.png" alt="Dashboard Screenshot" width="100%"/>
+  <img src="![image](https://github.com/user-attachments/assets/e474febb-0938-49c5-9b1f-8f458de28dea)
+" alt="Dashboard Screenshot" width="100%"/>
 </p>
 
 ### Calendar View
