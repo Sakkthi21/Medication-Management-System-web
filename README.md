@@ -223,52 +223,5 @@ SymptomSync offers a range of features to help users manage their health effecti
 9. View and manage your **profile**. You can also vies other users' profiles.
 10. Visit the **Medication Schedules** page to view/edit a complete list of your medications and their schedules.
 
----
 
-## Contributing
 
-1. Fork & branch: `git checkout -b feature/awesome`
-2. Develop something awesome
-3. Install & format: `npm install && npm run format`
-4. Commit & PR with description
-5. Wait for review and merge
-
----
-
-## Authors
-
-A big thank you to our team members for their hard work and dedication:
-
-- [David Nguyen](https://github.com/hoangsonww)
-- [Erica Ocbu](https://github.com/ericaocbu)
-
----
-
-## Video Demo
-
-Check out our demo video showcasing the app's features and functionality: [Link to Demo Video](https://drive.google.com/file/d/1DKOIBnTep6rMrOBSRWPVhk2s8g8uIYef/view?usp=sharing)
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1DKOIBnTep6rMrOBSRWPVhk2s8g8uIYef/view?usp=sharing" target="_blank">
-    <img src="docs/img/demo_thumbnail.png" alt="Demo Video Thumbnail" width="100%"/>
-  </a>
-</p>
-
-> [!TIP]
-> This video might not be comprehensive and cover all features of our app - so please feel free to give our live app at [symptomsync.vercel.app](https://symptomsync.vercel.app) a try to test out all the features!
-
----
-
-## High-Fidelity Prototype
-
-Link to Figma prototype: [SymptomSync Figma Prototype](https://www.figma.com/design/YwoQ1OgAPYOfFOwlbf3aP0/COMP-426-Final-Project-Prototype?node-id=2-287&t=yC99fAWyYGJEOY3N-1)
-
-Our high-fidelity prototype showcases the app's design and user experience. You can interact with the prototype to get a feel for how the app works.
-
-<p align="center">
-  <a href="https://www.figma.com/design/YwoQ1OgAPYOfFOwlbf3aP0/COMP-426-Final-Project-Prototype?node-id=2-287&t=yC99fAWyYGJEOY3N-1" target="_blank">
-    <img src="docs/img/figma.png" alt="Figma Prototype Thumbnail" width="100%"/>
-  </a>
-</p>
-
----
