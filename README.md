@@ -191,4 +191,6 @@ SymptomSync offers a range of features to help users manage their health effecti
 10. Visit the **Medication Schedules** page to view/edit a complete list of your medications and their schedules.
 
 
-
+Credentials
+ID: test@example.com
+Password: 123456
