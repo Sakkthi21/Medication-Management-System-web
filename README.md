@@ -126,7 +126,7 @@ SymptomSync offers a range of features to help users manage their health effecti
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/hoangsonww/SymptomSync-Health-App.git
+   git clone ""
    cd SymptomSync-Health-App
    ```
 
@@ -134,7 +134,7 @@ SymptomSync offers a range of features to help users manage their health effecti
    - This is very important as the project uses Docker to run the database and other services. If you don't have Docker installed, please install it first.
 3. Install dependencies (Remember to use `--legacy-peer-deps` if you encounter issues with React versions being incompatible with Shadcn/ui)
    ```bash
-   npm install --legacy-peer-deps
+   npm install 
    ```
 4. Copy `.env.example` → `.env.local` and fill in your Supabase credentials
    ```bash
