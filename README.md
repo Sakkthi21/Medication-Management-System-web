@@ -1,4 +1,4 @@
-# SymptomSync - A Health Management Web App 💊
+#A Health Management Web App 💊
 
 Build with patient care in mind, SymptomSync is a web application designed to help users manage their health and wellness. It provides a comprehensive dashboard for tracking medications, appointments, and health logs, all while ensuring real-time synchronization across devices. With features like medication reminders, appointment tracking, and an AI-powered chatbot, SymptomSync empowers users to take control of their health journey.
 
@@ -277,11 +277,3 @@ Our high-fidelity prototype showcases the app's design and user experience. You 
 </p>
 
 ---
-
-## License
-
-[MIT License](LICENSE) - Feel free to use, modify, and distribute this code as you wish. Contributions are welcome!
-
----
-
-Thank you for checking out SymptomSync! We hope it helps you manage your health and wellness effectively. If you have any questions or feedback, feel free to reach out! 💊
