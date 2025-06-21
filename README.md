@@ -59,18 +59,7 @@ The UI of the app was designed with Figma and Tailwind CSS. The design is respon
   <img src="docs/img/darkmode.png" alt="Dark Mode Screenshot" width="100%"/>
 </p>
 
-### Barcode/QR Code Scanning
 
-<p align="center">
-  <img src="docs/img/barcode.gif" alt="Barcode Scanning Screenshot" width="100%"/>
-</p>
-
-... and so many more! Explore [our app](https://symptomsync.vercel.app) to see the full range of features and functionality.
-
-> [!IMPORTANT]
-> Link to Figma prototype: [SymptomSync Figma Prototype](https://www.figma.com/design/YwoQ1OgAPYOfFOwlbf3aP0/COMP-426-Final-Project-Prototype?node-id=2-287&t=yC99fAWyYGJEOY3N-1)
-
----
 
 ## Features
 
@@ -146,13 +135,7 @@ SymptomSync offers a range of features to help users manage their health effecti
   - Each table is protected by **Row Level Security (RLS)** policies to ensure user data isolation, so that users can only access/update/delete their own data.
 - **Realtime Broadcast**: Any create/update/delete triggers both a `postgres_changes` subscription and a broadcast message so all open clients show a toast notification.
 - **Cron Jobs**: Scheduled jobs (via Supabase Cron) that scan upcoming reminders and dispatch notifications every second.
-> [!CAUTION]
-> If the window loses focus, or when you have a slow connection, the reminder notifications may not show up. Also, the cron jobs are not guaranteed to run at the exact time specified, but they will run within a few seconds of the scheduled time.
-- **Postgres Triggers**: Database triggers that listen for changes in the `medication_reminders`, `appointment_reminders`, and `health_logs` tables, and send messages to the broadcast channel.
-  - There is also a trigger on the `auth.users` table to create a corresponding `user_profiles` entry when a new user signs up.
-- **AI Chatbot**: The chatbot uses the Google AI API to analyze user symptoms and provide health insights.
 
----
 
 ## Installation
 
