@@ -179,7 +179,7 @@ SymptomSync offers a range of features to help users manage their health effecti
 
 ## Usage
 
-1. Sign up / log in via Supabase Auth.
+1. Sign up / log in.
 2. On the **Home** dashboard, add new medications, appointments, or health logs.
 3. View interactive charts—severity trends, symptom distribution, appointment patterns.
 4. Navigate to **Calendar** to see a month/week/day/agenda view of all events, add events, or even import/export ICS.
